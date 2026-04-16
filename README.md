@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This project implements a Random Forest classification model in R to predict customer churn using customer demographics, service usage, and account information. The goal is to identify churn patterns and highlight the most influential features affecting customer retention.
+This project implements a Random Forest classification model in R to predict customer churn using customer demographics, service usage and account information. The goal is to identify churn patterns and highlight the most influential features affecting customer retention.
 
 ## Technologies & Libraries
 
@@ -57,7 +57,7 @@ This project implements a Random Forest classification model in R to predict cus
 
 ## Feature Importance
 
-![Feature Importance](images/feature_importance.jpeg)
+![Feature Importance](images/feature_importance.png)
 
 ### Insights
 
@@ -70,7 +70,7 @@ This project implements a Random Forest classification model in R to predict cus
 After executing the script, the following outputs are generated:
 
 * Confusion matrix displayed in the terminal
-* Accuracy, sensitivity, specificity, and other evaluation metrics
+* Accuracy, sensitivity, specificity and other evaluation metrics
 * ROC curve visualizing model performance
 * AUC score indicating classification quality
 * Feature importance plot showing key influencing features
