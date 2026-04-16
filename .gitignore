@@ -1,0 +1,18 @@
+# R session files (REMOVE THESE)
+.Rhistory
+.RData
+.Ruserdata
+.Rprofile
+
+# renv (keep lockfile, ignore heavy folders)
+renv/library/
+renv/staging/
+
+# OS files
+.DS_Store
+
+# Logs / temp
+*.log
+
+# Optional: VS Code settings
+.vscode/
